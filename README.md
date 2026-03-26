@@ -61,8 +61,7 @@ Quá trình thiết kế bao gồm các giai đoạn và tài liệu quan trọn
 
 🔗 **Xem thiết kế trên Figma:** [Astrojourney - Khám phá Thiên văn học](https://www.figma.com/proto/CILI9SDR0uhDJTBJoqkZfx/Kh%C3%A1m-ph%C3%A1-Thi%C3%AAn-v%C4%83n-h%E1%BB%8Dc---Astrojourney?page-id=15%3A3114&node-id=454-2351&p=f&viewport=38%2C749%2C0.05&t=wzXiduLp657efKwv-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=454%3A2351)
 
-![Video giới thiệu:](https://drive.google.com/file/d/1QJGTj-r6oB_284d9hs0RVop5khoK-zC9/view?usp=drivesdk)
-
+🎬 **Video giới thiệu dự án:** [Nguyen Vu Yen Nhi cntt 17-02.mov](https://drive.google.com/file/d/1QJGTj-r6oB_284d9hs0RVop5khoK-zC9/view?usp=drivesdk)
 ---
 
 ## 👩‍💻 Tác giả
