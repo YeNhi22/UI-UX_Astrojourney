@@ -59,25 +59,9 @@ Quá trình thiết kế bao gồm các giai đoạn và tài liệu quan trọn
 
 ---
 
-## 📸 Hình ảnh minh họa
+🔗 **Xem thiết kế trên Figma:** [Astrojourney - Khám phá Thiên văn học](https://www.figma.com/proto/CILI9SDR0uhDJTBJoqkZfx/Kh%C3%A1m-ph%C3%A1-Thi%C3%AAn-v%C4%83n-h%E1%BB%8Dc---Astrojourney?page-id=15%3A3114&node-id=454-2351&p=f&viewport=38%2C749%2C0.05&t=wzXiduLp657efKwv-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=454%3A2351)
 
-| Hình ảnh | Mô tả |
-| :--- | :--- |
-| ![Hình 1](https://via.placeholder.com/600x300?text=Hinh+1:+Astrojourney+Redraw) | **Hình 1.** Astrojourney Redraw |
-| ![Hình 2](https://via.placeholder.com/600x300?text=Hinh+2:+Project+Overview) | **Hình 2.** Project Overview |
-| ![Hình 3](https://via.placeholder.com/600x300?text=Hinh+3:+Problem+Solution) | **Hình 3.** Problem Solution |
-| ![Hình 4](https://via.placeholder.com/600x300?text=Hinh+4:+Site+Map) | **Hình 4.** Site Map |
-| ![Hình 5](https://via.placeholder.com/600x300?text=Hinh+5:+Style+Guide) | **Hình 5.** Style Guide |
-| ![Hình 6](https://via.placeholder.com/600x300?text=Hinh+6:+Components) | **Hình 6.** Components |
-| ![Hình 7](https://via.placeholder.com/600x300?text=Hinh+7:+User+Flow) | **Hình 7.** User Flow |
-| ![Hình 8](https://via.placeholder.com/600x300?text=Hinh+8:+Wireframe) | **Hình 8.** Wireframe |
-| ![Hình 9](https://via.placeholder.com/600x300?text=Hinh+9:+Moodboard) | **Hình 9.** Moodboard |
-| ![Hình 10](https://via.placeholder.com/600x300?text=Hinh+10:+Onboarding) | **Hình 10.** Onboarding |
-| ![Hình 11](https://via.placeholder.com/600x300?text=Hinh+11:+Home) | **Hình 11.** Home |
-| ![Hình 12](https://via.placeholder.com/600x300?text=Hinh+12:+Form) | **Hình 12.** Form đăng ký đăng nhập |
-| ![Hình 13](https://via.placeholder.com/600x300?text=Hinh+13:+Chi+tiet+bai+viet) | **Hình 13.** Xem chi tiết bài viết |
-| ![Hình 14](https://via.placeholder.com/600x300?text=Hinh+14:+Yeu+thich) | **Hình 14.** Các bước thêm bài viết vào yêu thích |
-| ![Hình 15](https://via.placeholder.com/600x300?text=Hinh+15:+Thanks) | **Hình 15.** Thanks |
+![Video giới thiệu:](https://drive.google.com/file/d/1QJGTj-r6oB_284d9hs0RVop5khoK-zC9/view?usp=drivesdk)
 
 ---
 
